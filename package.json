@@ -1,0 +1,21 @@
+{
+  "name": "week-6-simple-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node ./simple-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkoester306/week-6-simple-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkoester306/week-6-simple-server/issues"
+  },
+  "homepage": "https://github.com/dkoester306/week-6-simple-server#readme"
+}
